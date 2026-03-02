@@ -16,4 +16,6 @@
 - Методология БЭМ
 - Normalize.css
 
-## Структура проекта
+## Ссылка на репозиторий
+
+https://github.com/ogxofdtxo/ono-tebe-nado-ad
