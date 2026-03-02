@@ -17,7 +17,15 @@
 - Normalize.css
 
 ## Сььруктура проекта
-
+ono-tebe-nado-ad/
+│
+├── index.html
+├── README.md
+│
+├── blocks/        # CSS-файлы блоков (БЭМ)
+├── pages/         # Главный CSS-файл страницы
+├── images/        # Изображения и иконки
+└── vendor/        # Сторонние стили (normalize.css)
 
 ## Ссылка на репозиторий
 
